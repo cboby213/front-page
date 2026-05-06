@@ -1,0 +1,72 @@
+
+.top-page h1{
+    color: #c71686;
+    font-size: 80px;
+    padding-top:40px ;
+
+}
+h2{
+    font-size: 60px;
+    font-weight: lighter;
+    padding-top:100px;
+
+    
+}
+.top-page p{
+    padding-top:20px ;
+    font-size:20px ;
+}
+button{
+    margin-top:30px ;
+    height: 80px;
+    width: 200px;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 5px;
+    color: white;
+    background:#d97550;
+    margin-bottom: 50px;
+    
+}
+button:hover{
+    background-color: brown;
+}
+#clint{
+    
+    text-align: center;
+    font-size: 50px;
+    font-family:  Arial, sans-serif;
+
+    
+}
+.para{
+    text-align: center;
+    font-size: 20px;
+}
+.ceo{
+    text-align: center;
+}
+.ceo h4{
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ceo p{
+    padding-top: 40px;
+    font-size: 20px;
+}
+.contact{
+    text-align: center;
+    padding: 20px;
+    background-color:#ed6ba8;
+    margin-top:100px ;
+}
+.contact h4{
+    color: rgb(65, 63, 63);
+}
+.mail{
+    font-size:40px ;
+    color: black;
+    font-weight: bold;
+}
